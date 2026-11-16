@@ -202,6 +202,6 @@ Bright TV can use interactive dashboards and regular reporting to monitor perfor
 # Tools and Technologies: 
 SQL, Databricks, Excel and Data Visualisation (PowerBI,Lovable,Looker Studio,Miro,Canva and Powerpoint presentation).
 
-**Tools and Technologies:** SQL, Databricks, Excel and Data Visualisation.
+
 
 **Project Focus:** Data Cleaning, Data Analysis, Exploratory Data Analysis (EDA), Data Interpretation and Data Visualisation.Bright-TV-Case-Study
